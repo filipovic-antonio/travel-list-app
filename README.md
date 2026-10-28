@@ -1,16 +1,31 @@
-# React + Vite
+🌴 Far Away — Travel Packing List 💼
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and intuitive React application that helps you organize everything you need to pack for your next adventure. Create your packing list, track packed items, and stay organized before every trip.
 
-Currently, two official plugins are available:
+Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+Add Items — Add items to your packing list with a custom description.
 
-## React Compiler
+Set Quantities — Choose the quantity of each item, from 1 to 20.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Track Packing Progress — Mark items as packed or unpacked.
 
-## Expanding the ESLint configuration
+Remove Items — Delete items you no longer need.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Sort Items — Organize your packing list according to your preferences.
+
+Packing Statistics — View the total number of items, packed items, and overall packing progress.
+
+Clear the List — Remove all items and start a fresh packing list.
+
+Responsive Design — Enjoy a clean interface across different screen sizes.
+
+Built With
+
+React — UI development
+
+JavaScript — Application logic
+
+CSS — Styling and layout
+
+Vite — Development environment and build tool
